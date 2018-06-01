@@ -1,0 +1,39 @@
+$A = [
+    'a_a' => [
+        'value_a_1',
+        'value_a_2',
+        'value_a_3',
+        .
+        .
+        'value_a_n'
+    ],
+    'a_b' => [
+        'value_b_1',
+        'value_b_2',
+        'value_b_3',
+        .
+        .
+        'value_b_n'
+    ]
+
+    ];
+
+$B = [
+    'b_a' => [
+        'value_a_1',
+        'value_a_2',
+        'value_a_3',
+        .
+        .
+        'value_a_n'
+    ],
+    'b_b' => [
+        'value_b_1',
+        'value_b_2',
+        'value_b_3',
+        .
+        .
+        'value_b_n'
+    ]
+
+    ];
